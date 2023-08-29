@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Muhammed Durmaz:
-Fırat Üniversitesi Yazılım Mühendisliği mezunuyum. Üniversite 2. sınıftan itibaren Backend tarafında<br>kendimi geliştirdim ve halen geliştirmeye devam ediyorum. Java Spring alanında kendimi geliştirdim <br>ve şuan Mikroservis mimarileri üzerinde çalışıyorum bu mimariyle gelen sorunları ve çözüm <br>teknolojileri üzerinde araştırmalar yapıyorum. Amacım, kendimi sürekli geliştirmek ve yenilikçi <br>çözümler üretmek için çalışmak. Yeni yazılım teknolojilerini, girişimleri ve web üzerindeki yenilikleri<br>yakından takip ediyorum.<br>
+I am working with JVM based backend technologies. I am working on microservice architectures and I am doing research on the problems and solution technologies that come with this architecture. My goal is to constantly improve myself and work to produce innovative solutions. I closely follow new software technologies, initiatives and innovations on the web.<br>
 
 
 ## 🌐 Socials:
