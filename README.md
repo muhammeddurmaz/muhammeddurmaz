@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Muhammed Durmaz:
+# 💫 Hi, I'm Muhammed Durmazz:
 I am working with JVM based backend technologies. I am working on microservice architectures and I am doing research on the problems and solution technologies that come with this architecture. My goal is to constantly improve myself and work to produce innovative solutions. I closely follow new software technologies, initiatives and innovations on the web.<br>
 
 
